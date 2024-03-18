@@ -33,7 +33,7 @@ FongMi影视、TVBox、猫影视配置文件。所有资源均来自于各路大
 
 （1）FongMi版本  项目地址：https://github.com/FongMi/TV 支持直播多线路、自动换源、直播倍速，手机投屏；
 
-（2）q215613905版本  项目地址：https://github.com/q215613905/TVBoxOS 支持直播回放；
+（2）q215613905版本  项目地址：https://github.com/q215613905/TVBoxOS 支持直播回放（已停止更新）；
 
 （3）takagen99版本  项目地址：https://github.com/takagen99/Box 支持直播回放，界面美观；
 
@@ -49,7 +49,7 @@ FongMi影视、TVBox、猫影视配置文件。所有资源均来自于各路大
 
 （4）霜辉月明py：https://999740.xyz/raw.githubusercontent.com/lm317379829/PyramidStore/pyramid/py.json
 
-（5）小米小爆脾气：http://xhww.fun:63/小米/DEMO.json
+（5）小米小爆脾气：http://xhww.fun/小米/DEMO.json
 
 （6）菜妮丝：https://tvbox.cainisi.cf
 
@@ -60,32 +60,6 @@ FongMi影视、TVBox、猫影视配置文件。所有资源均来自于各路大
 （9）巧技：http://pandown.pro/tvbox/tvbox.json
 
 （10）Ray：https://100km.top/0
-
-4. 随机轮换壁纸：
-
-（1）https://jianbian.chuqiuyu.workers.dev 自制极简渐变壁纸
-
-（2）http://www.kf666888.cn/api/tvbox/img
-
-（3）https://picsum.photos/1280/720/?blur=10
-
-（4）http://刚刚.live/图 
-
-（5）http://饭.eu.org/深色壁纸/api.php,
-
-（6）https://www.dmoe.cc/random.php
-
-（7）https://api.btstu.cn/sjbz/zsy.php
-
-（8）https://api.btstu.cn/sjbz/?lx=dongman
-
-（9）http://api.btstu.cn/sjbz/?lx=meizi
-
-（10）http://api.btstu.cn/sjbz/?lx=suiji
-
-（11）https://pictures.catvod.eu.org/
-
-（12）https://bing.img.run/rand.php
 
 自用仓库，如果喜欢，请Fork自用，谢谢！
 
